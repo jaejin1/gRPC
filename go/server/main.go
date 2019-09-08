@@ -6,7 +6,7 @@ import (
 	"net"
 	"strconv"
 
-	pb "github.com/jaejin1/grpc/pb"
+	pb "github.com/jaejin1/grpc/go/pb"
 	"google.golang.org/grpc"
 )
 
